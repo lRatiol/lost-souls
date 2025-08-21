@@ -1,0 +1,2 @@
+manifestUrl:https://raw.githubusercontent.com/lRatiol/lost-souls/refs/heads/main/manifest.txt
+repoUrl:https://github.com/lRatiol/lost-souls/raw/refs/heads/main/mods/

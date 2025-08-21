@@ -1,0 +1,14 @@
+E:\prog\project\createManifest\createManifest\bin\Debug\net8.0\createManifest.exe
+E:\prog\project\createManifest\createManifest\bin\Debug\net8.0\createManifest.deps.json
+E:\prog\project\createManifest\createManifest\bin\Debug\net8.0\createManifest.runtimeconfig.json
+E:\prog\project\createManifest\createManifest\bin\Debug\net8.0\createManifest.dll
+E:\prog\project\createManifest\createManifest\bin\Debug\net8.0\createManifest.pdb
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.AssemblyInfoInputs.cache
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.AssemblyInfo.cs
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.csproj.CoreCompileInputs.cache
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.dll
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\refint\createManifest.dll
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.pdb
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\createManifest.genruntimeconfig.cache
+E:\prog\project\createManifest\createManifest\obj\Debug\net8.0\ref\createManifest.dll

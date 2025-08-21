@@ -1,0 +1,16 @@
+E:\prog\project\modiki2\modiki2\bin\Debug\net8.0-windows\modiki2.exe
+E:\prog\project\modiki2\modiki2\bin\Debug\net8.0-windows\modiki2.deps.json
+E:\prog\project\modiki2\modiki2\bin\Debug\net8.0-windows\modiki2.runtimeconfig.json
+E:\prog\project\modiki2\modiki2\bin\Debug\net8.0-windows\modiki2.dll
+E:\prog\project\modiki2\modiki2\bin\Debug\net8.0-windows\modiki2.pdb
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.Form1.resources
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.csproj.GenerateResource.cache
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.GeneratedMSBuildEditorConfig.editorconfig
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.AssemblyInfoInputs.cache
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.AssemblyInfo.cs
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.csproj.CoreCompileInputs.cache
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.dll
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\refint\modiki2.dll
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.pdb
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\modiki2.genruntimeconfig.cache
+E:\prog\project\modiki2\modiki2\obj\Debug\net8.0-windows\ref\modiki2.dll
