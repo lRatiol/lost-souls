@@ -317,4 +317,4 @@ bbedc6dee3e2fdc222aeb7babcc8960e6008af488bde714b51a82a1069847bee .connector\rogu
 f183b0aa5be84268965c36308c8cbeb5e27e1922fee7dbbd35ce40bed32bcee3 .connector\spell_engine-0.15.11+1.20.1_mapped_srg_1.20.1.jar
 81fb5808c8ea9fadf0962fcb05178a06fdda197ac08db21ba8a76063c214e3e1 .connector\spell_engine-0.15.11+1.20.1_mapped_srg_1.20.1.jar.input
 353a62bd3db4e287713815af828d58e8318732034c7fd6ca4e5cab9f60d9ce61 .connector\spell_power-0.12.0+1.20.1_mapped_srg_1.20.1.jar
-7fa0f1ce85d67ef4790d39c950dad60baaee7a13f6a5c77b33d8436e7941e010 .connector/spell_power-0.12.0+1.20.1_mapped_srg_1.20.1.jar.input
+7fa0f1ce85d67ef4790d39c950dad60baaee7a13f6a5c77b33d8436e7941e010 .connector\spell_power-0.12.0+1.20.1_mapped_srg_1.20.1.jar.input
